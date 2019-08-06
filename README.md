@@ -1,4 +1,4 @@
-# rxjson
+# reactive-json
 Reactive ndJSON library for async publish/subscribe across HTTP
 
 
