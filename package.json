@@ -1,0 +1,27 @@
+{
+  "name": "rxjson",
+  "version": "1.0.0",
+  "description": "Reactive ndJSON library for async publish/subscribe across HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenhankin/rxjson.git"
+  },
+  "keywords": [
+    "ndjson",
+    "async",
+    "rxjs"
+  ],
+  "author": "Steve Hankin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenhankin/rxjson/issues"
+  },
+  "homepage": "https://github.com/stevenhankin/rxjson#readme",
+  "devDependencies": {
+    "rxjs": "^6.5.2"
+  }
+}
