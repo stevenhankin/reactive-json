@@ -1,5 +1,5 @@
 {
-  "name": "rxjson",
+  "name": "reactive-json",
   "version": "1.0.0",
   "description": "Reactive ndJSON library for async publish/subscribe across HTTP",
   "main": "index.js",
